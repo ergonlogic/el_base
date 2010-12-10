@@ -21,7 +21,13 @@ projects[keyauth][download][url] = "git://github.com/developmentseed/keyauth.git
 projects[openid_sso][type] = "module"
 projects[openid_sso][download][type] = "git"
 projects[openid_sso][download][url] = "git://github.com/developmentseed/openid_sso.git"
+projects[osso_relying][type] = "module"
+projects[osso_relying][download][type] = "git"
+projects[osso_relying][download][url] = "https://github.com/developmentseed/osso_relying.git"
 
+
+
+; API module and dependencies
 ;;;;;;;;;;;;;;;;;;;;;;;
 ; Administration Menu ;
 ;;;;;;;;;;;;;;;;;;;;;;;
